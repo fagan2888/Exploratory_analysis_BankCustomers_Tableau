@@ -22,10 +22,7 @@ Suprisingly Whales has predominant mid size balances from(15k-45k)
 <h6>Ireland</h6>
 Northern Ireland has more then 70 per cent of female customers ,of younger age groups.
 <img width="565" alt="story" src="https://user-images.githubusercontent.com/21689911/39669278-3fbd7744-50ad-11e8-9551-eac16f8af0f1.PNG">
-<img width="526" alt="scotland" src="https://user-images.githubusercontent.com/21689911/39669288-789e28a6-50ad-11e8-804c-826c67948f3d.PNG">
-<img width="512" alt="ireland" src="https://user-images.githubusercontent.com/21689911/39669297-9f98d640-50ad-11e8-88e2-b3f0ddf4b408.PNG">
-<img width="526" alt="europe" src="https://user-images.githubusercontent.com/21689911/39669303-b7caa5f4-50ad-11e8-8fe8-290ce0726cf0.PNG">
-<img width="551" alt="whales" src="https://user-images.githubusercontent.com/21689911/39669312-d1aed80a-50ad-11e8-8f86-ecd419b59cad.PNG">
+<img width="526" alt="scotland" src="https://user-images.githubusercontent.com/21689911/39669288-789e28a6-50ad-11e8-804c-826c67948f3d.PNG"><img width="512" alt="ireland" src="https://user-images.githubusercontent.com/21689911/39669297-9f98d640-50ad-11e8-88e2-b3f0ddf4b408.PNG"><img width="526" alt="europe" src="https://user-images.githubusercontent.com/21689911/39669303-b7caa5f4-50ad-11e8-8fe8-290ce0726cf0.PNG"><img width="551" alt="whales" src="https://user-images.githubusercontent.com/21689911/39669312-d1aed80a-50ad-11e8-8f86-ecd419b59cad.PNG">
 
 
 
